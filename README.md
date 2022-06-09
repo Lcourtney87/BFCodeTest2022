@@ -4,6 +4,7 @@
  
 ## Preface
 This test is designed to gauge the skill levels of applicants in several areas – don’t panic if there’s something you don’t know or are unsure of. Feel free to use any resources available to you to solve each stage, we only ask that you supply the source in a comment around that area. This is as much about problem solving as it is about ability – we all have to google sometimes.
+
 The core application you will be provided with has a rudimentary Blazor server application setup along with an in memory SQLite database pre-configured. Feel free to change any element of these as you need through the exercise
 There are no time limits to this, so feel free to take your time and think about the best way to execute each stage.
 
