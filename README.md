@@ -11,7 +11,7 @@ Good luck!
 
 ## Test
 ### Step 1
-Download the git repository (Lcourtney87/BFCodeTest2022: Betfred 2022 CodeTest (github.com))
+Download the git repository
 ### Step 2
 Create a form to save ‘Person’ entities to the database.
 ### Step 2
