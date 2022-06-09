@@ -24,4 +24,4 @@ On the search form, when a ‘Person’ is selected, display the ‘Items’ tha
 ### Step 5
 Add ‘DateOfBirth’ to the ‘Person‘ entities, add search functionality to be able to filter on a date range.
 ### Step 6
-Upload your project to a Git repository and send the link to retail.development@betfred.com
+Commit your changes to the Git branch you were provided with
